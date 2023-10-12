@@ -1,0 +1,7 @@
+@inproceedings{shi2023cross,
+    title     = {Cross-Episodic Curriculum for Transformer Agents},
+    author    = {Lucy Xiaoyang Shi and Yunfan Jiang and Jake Grigsby and Linxi "Jim" Fan and Yuke Zhu},
+    booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+    year      = {2023},
+    url       = {https://openreview.net/forum?id=afKnrwJBAl}
+}
